@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-training repo
+training repo preview
